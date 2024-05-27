@@ -1,8 +1,4 @@
-다음은 ENTIREPJT 프로젝트의 한글 README.md 파일입니다.
-
----
-
-# ENTIREPJT - 면접 답변 자동 생성 프로그램
+# MuLLM - 면접 답변 자동 생성 프로그램
 
 ## 소개
 
