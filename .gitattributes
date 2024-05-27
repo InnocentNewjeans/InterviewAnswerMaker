@@ -1,0 +1,8 @@
+# 자동 줄 끝 변환 설정
+* text=auto
+
+# 쉘 스크립트 파일은 LF 사용
+*.sh text eol=lf
+
+# JSON 파일은 CRLF 사용
+*.json text eol=crlf
