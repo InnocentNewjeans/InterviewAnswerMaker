@@ -25,7 +25,7 @@
 - 맞춤형 학습 효과
 
 ### 데이터:
-- AI 허브 오픈 데이터
+- [AI 허브 오픈 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71592)
 - 약 70,000개의 면접 질문-답변 쌍 (텍스트 데이터 사용)
 
 ### 모델:
@@ -82,7 +82,7 @@ entirepjt/
 
 1. **리포지토리 클론:**
    ```bash
-   git clone https://github.com/yourusername/entirepjt.git
+   git clone https://github.com/InnocentNewjeans/InterviewAnswerMaker.git
    cd entirepjt
    ```
 
